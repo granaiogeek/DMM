@@ -20,6 +20,7 @@
   <body>
       <div id="header">
         <nav>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <ul>
             
             {% if site.show_downloads %}
