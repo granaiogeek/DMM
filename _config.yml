@@ -8,6 +8,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /img/logo.jpg
+        path: /img/dmm-logo.png
         height: 630
         width: 1200
