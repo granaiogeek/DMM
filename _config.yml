@@ -10,4 +10,4 @@ defaults:
       image:
         path: /img/dmm-logo.png
         height: 630
-        width: 1200
+        width: 1280
