@@ -1,3 +1,13 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+twitter:
+  username: GranaioGit
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /img/logo.jpg
+        height: 630
+        width: 1200
