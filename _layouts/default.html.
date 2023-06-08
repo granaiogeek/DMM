@@ -18,11 +18,11 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header">
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <div id="xheader">
+      
         <nav>
           <ul>
-             
+             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             {% if site.show_downloads %}
               <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
               <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
