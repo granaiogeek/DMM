@@ -1,4 +1,4 @@
-## Welcome to DMM GitHub Pages
+## Welcome to DMM GitHub Pages Blog
 
 You can use the [editor on GitHub](https://github.com/granaiogeek/DMM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
